@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: e2b5ad66a0d8348759c18ef743fb3343
+timeCreated: 1521322250
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: armControl.L
+    100004: armControl.R
+    100006: armIK.L
+    100008: armIK.R
+    100010: armPullTarget.L
+    100012: armPullTarget.R
+    100014: body
+    100016: //RootNode
+    100018: head
+    100020: hoofFront.L
+    100022: hoofFront.R
+    100024: hoofRear.L
+    100026: hoofRear.R
+    100028: horns1
+    100030: legController.L
+    100032: legController.R
+    100034: legIK.L
+    100036: legIK.R
+    100038: legPullTarget.L
+    100040: legPullTarget.R
+    100042: lowerArm.L
+    100044: lowerArm.R
+    100046: lowerback
+    100048: lowerLeg.L
+    100050: lowerLeg.R
+    100052: middleLeg.L
+    100054: middleLeg.R
+    100056: neck
+    100058: upperArm.L
+    100060: upperArm.R
+    100062: upperback
+    100064: upperLeg.L
+    100066: upperLeg.R
+    400000: Armature
+    400002: armControl.L
+    400004: armControl.R
+    400006: armIK.L
+    400008: armIK.R
+    400010: armPullTarget.L
+    400012: armPullTarget.R
+    400014: body
+    400016: //RootNode
+    400018: head
+    400020: hoofFront.L
+    400022: hoofFront.R
+    400024: hoofRear.L
+    400026: hoofRear.R
+    400028: horns1
+    400030: legController.L
+    400032: legController.R
+    400034: legIK.L
+    400036: legIK.R
+    400038: legPullTarget.L
+    400040: legPullTarget.R
+    400042: lowerArm.L
+    400044: lowerArm.R
+    400046: lowerback
+    400048: lowerLeg.L
+    400050: lowerLeg.R
+    400052: middleLeg.L
+    400054: middleLeg.R
+    400056: neck
+    400058: upperArm.L
+    400060: upperArm.R
+    400062: upperback
+    400064: upperLeg.L
+    400066: upperLeg.R
+    2100000: Material.002
+    2100002: cow1
+    4300000: horns1
+    4300002: body
+    7400000: Armature|Buck_Backward
+    7400002: Armature|Bucking_Forward
+    7400004: Armature|Grow_Tall
+    7400006: Armature|Head_Explode
+    7400008: Armature|Idle
+    7400010: Armature|PoseLib
+    7400012: Armature|Running
+    7400014: Armature|Shake
+    7400016: Armature|Shrink
+    7400018: Armature|Spin
+    7400020: Armature|Vibrate
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+    13700002: horns1
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
