@@ -9,7 +9,3 @@ An intense, slapstick 3D bull-riding game made in Unity
 <br><br><br>
 ![Main menu.](https://github.com/ngwattcos/Bovine-Intervention/blob/master/Screenshots/Screen%20Shot%202018-03-21%20at%202.17.59%20AM.png)
 <br><br><br>
-![Passive EM organisms.](https://github.com/ngwattcos/Corporeal/blob/master/screenshots/passives.png)
-<br><br><br>
-![The player jumping.](https://github.com/ngwattcos/Corporeal/blob/master/screenshots/jumping.png)
-<br><br><br>
